@@ -45,7 +45,7 @@ public class Cilindro extends AppCompatActivity {
     public void borrarCilindro(View v){
         cajaradio.setText("");
         cajaradio.requestFocus();
-        cajaaltura.setText("");
+        cajaaltura.setText(" ");
 
     }
 }
